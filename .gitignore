@@ -1,0 +1,26 @@
+# Ignore
+.history
+.vscode
+data
+common_files
+php-mvc
+info_php_all_220530
+*.rar
+*.zip
+logs/
+*_BK*
+*BK*
+*Copy*
+images/
+vendor
+*.gif
+*.png
+*.jpg
+*.csv
+*.svg
+*.sql
+*.html
+*.pdf
+*.xlsx
+*.exe
+*.jar

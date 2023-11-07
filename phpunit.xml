@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="vendor/autoload.php" colors="true" stopOnFailure="false"
+>
+    <testsuites>
+    	<testsuite name="Lar_ChooseLink">
+        	<!-- <directory suffix="Test.php">tests</directory> -->
+        	<directory>tests</directory>
+        	<!-- <file>tests/TransferStatsTest.php</file> -->
+        	<!-- <file>tests/ClientTest.php</file> -->
+        	<!-- <file>tests/InstructorTest.php</file> -->
+		</testsuite>
+    </testsuites>
+
+    <!-- <filter>
+        <whitelist processUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">app</directory>
+        </whitelist>
+    </filter> -->
+</phpunit>
